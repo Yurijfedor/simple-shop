@@ -9,7 +9,7 @@ import Layout from "./components/common/Layout";
 
 function App() {
   return (
-    <Router basename="/drugs_shop">
+    <Router basename="/products_shop">
       <div className="app">
         <Header />
         <Routes>
